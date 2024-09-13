@@ -1,0 +1,43 @@
+html {
+  background: url(img/greencheckered.jpg);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: white;
+  margin: auto;
+  width: 800px;
+  padding: 25px 25px;
+  border: rgb(119, 141, 20) solid 3px;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  font-family: "Sofadi One", system-ui;
+  font-variant: small-caps;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 10px;
+}
+
+h2 {
+  color: rgb(74, 87, 0);
+}
+
+p,
+ul {
+  font-family: "Dosis", sans-serif;
+}
+
+img {
+  width: 550px;
+  height: 280px;
+}
+
+.center {
+  text-align: center;
+}
